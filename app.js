@@ -1,4 +1,4 @@
-const newYears = "21 Sep 2020";
+const newYears = "19 Sep 2020";
 const daysEl = document.querySelector("#days");
 const hoursEl = document.querySelector("#hours");
 const minsEl = document.querySelector("#mins");
